@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/h4lf4r0b0t/Scrivania/Personali/Projects/maze/Room.h
+iostream
+-
+SDL2/SDL.h
+/home/h4lf4r0b0t/Scrivania/Personali/Projects/maze/SDL2/SDL.h
+
+/home/h4lf4r0b0t/Scrivania/Personali/Projects/maze/main.cpp
+iostream
+-
+vector
+-
+stdlib.h
+-
+time.h
+-
+stack
+-
+SDL2/SDL.h
+/home/h4lf4r0b0t/Scrivania/Personali/Projects/maze/SDL2/SDL.h
+Room.h
+/home/h4lf4r0b0t/Scrivania/Personali/Projects/maze/Room.h
+
